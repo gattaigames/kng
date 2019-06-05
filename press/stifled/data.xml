@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Stifled</title>
+	<release-date>2017</release-date>
+	<website>http://www.stifledgame.com/</website>
+	<press-can-request-copy>FALSE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>PS4,PSVR, Other Platforms TBA</name>
+			<link>http://www.stifledgame.com/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>TBA</currency>
+		</price>
+	</prices>
+
+	<description>
+	Stifled is a multi-award winning, VR and Mic-Enabled Sound-Based Stealth Thriller, where sound is the only way you see and the enemies HEAR your fear.
+	
+	In Stifled, the sounds made by your in-game character and yourself through microphone input reveal the otherwise hidden world through ‘echolocation’. However, undue noise will attract the attention of creatures lurking in the darkness. To survive, you will have to tread the line between making sounds to see, and staying quiet to stay hidden.
+	</description>
+	
+	<history>
+	Stifled was previously code-named Project Echo and is the spiritual successor to Lurking, an award-winning student game that was developed over a course of 6 months at Digipen Institute of Technology, Singapore. More info on Lurking can be found at www.lurking-game.com.
+	</history>
+
+	<features>
+		<feature>Sound based play, where you 'see' the world through sound.</feature>
+		<feature>Microphone enabled play, where the enemies 'HEARS your fear'.</feature>
+		<feature>VR-enabled that increases the player's immersion.</feature>
+		<feature>Let's Player's nightmare where their commentary reveals their location to the enemies.</feature>
+		<feature>Unique 'echolocation' visual style.</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Stifled: Narrative Trailer</name>
+			<youtube>2Vhrt9zIAE0</youtube>
+		</trailer>
+		<trailer>
+			<name>Stifled: Microphone Demo Trailer</name>
+			<youtube>d48Ygw_n0pE</youtube>
+		</trailer>
+		<trailer>
+			<name>Stifled: Teaser Trailer</name>
+			<youtube>AUaTqSMOcE0</youtube>
+		</trailer>
+		<trailer>
+			<name>Stifled: Polygon Preview Stream</name>
+			<youtube>G-fHxp8K57A</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Stifled - Winner, Most Innovative Game</description>
+			<info>Casual Connect Asia 2017</info>
+		</award>
+		<award>
+			<description>Stifled - Winner, Best Game Design</description>
+			<info>Casual Connect Asia 2017</info>
+		</award>		
+		<award>
+			<description>Stifled - Winner, Best Innovation</description>
+			<info>Taipei Game Show 2017</info>
+		</award>
+		<award>
+			<description>Stifled - Winner, Judges' Choice</description>
+			<info>Gamestart Asia 2016</info>
+		</award>		
+		<award>
+			<description>Stifled - Winner, Best Gameplay</description>
+			<info>Unite Singapore 2016</info>
+		</award>	
+		<award>
+			<description>Stifled - Winner, Audience Choice</description>
+			<info>Unite Singapore 2016</info>
+		</award>	
+		<award>
+			<description>Stifled - Official Selection</description>
+			<info>Indiecade at E3 2017</info>
+		</award>		
+		<award>
+			<description>Stifled - Official Selection</description>
+			<info>Bitsummit 2017</info>
+		</award>		
+		<award>
+			<description>Stifled - Nominee, Best Game Audio</description>
+			<info>Casual Connect Asia 2017</info>
+		</award>
+		<award>
+			<description>Stifled - Finalist, Idea</description>
+			<info>AZ Play 2016</info>
+		</award>
+		<award>
+			<description>Stifled - Finalist, Sound</description>
+			<info>AZ Play 2016</info>
+		</award>
+		<award>
+			<description>Stifled - Finalist, Playability</description>
+			<info>AZ Play 2016</info>
+		</award>
+		<award>
+			<description>Stifled - Finalist, Excellence in Experimental</description>
+			<info>Busan Indie Connect 2016</info>
+		</award>
+		<award>
+			<description>Stifled - Official Selection</description>
+			<info>Radius Vienna 2016</info>
+		</award>	
+		<award>
+			<description>Stifled - Official Selection</description>
+			<info>Out of Index 2016</info>
+		</award>
+		<award>
+			<description>Stifled - Finalist, Innovation Category</description>
+			<info>BIG Festival 2016</info>
+		</award>		
+		<award>
+			<description>Stifled - Nominee, Most Innovative Game</description>
+			<info>Casual Connect Asia 2016</info>
+		</award>
+		<award>
+			<description>Stifled - Nominee, Best Game Design</description>
+			<info>Casual Connect Asia 2016</info>
+		</award>
+		<award>
+			<description>Lurking - Winner, Best Student Game</description>
+			<info>IGF China 2014</info>
+		</award>
+		<award>
+			<description>Lurking - Winner, Excellence in Technology</description>
+			<info>IGF China 2014</info>
+		</award>
+		<award>
+			<description>Lurking - Official Selection</description>
+			<info>Gamer's Voice, SXSW 2015</info>
+		</award>
+		<award>
+			<description>Lurking - Official Selection</description>
+			<info>Sense of Wonder Night 2014, Tokyo Game Show 2014</info>
+		</award>
+
+	</awards>
+	
+	<quotes>
+		<quote>
+			
+			<description>"The concept plays with your mind in ways other horror experiences try and fail at"</description>
+			<name>Peter Graham</name>
+			<website>VR Focus</website>
+			<link>https://www.vrfocus.com/2017/07/preview-stifled-sound-is-both-your-enemy-and-your-friend/</link>
+		</quote>		
+		<quote>
+			<description>"When you’re shivering inside the cold, dark confines of a VR headset, your only real comfort is your sight. That is, until it’s mostly taken from you."</description>
+			<name>David Jagneax</name>
+			<website>UploadVR</website>
+			<link>https://uploadvr.com/hands-on-stifled-listen/</link>
+		</quote>
+		<quote>
+			<description>"I tried an early demo that convinced me that this concept has legs and doesn't feel gimmicky."</description>
+			<name>Zack Furniss</name>
+			<website>Destructoid</website>
+			<link>https://www.destructoid.com/voice-controlled-horror-game-stifled-is-on-steam-greenlight-worth-a-look-375035.phtml</link>
+		</quote>
+		<quote>
+			<description>"Being forced to use sound and your own memory to navigate the dark successfully ratchets up the tension considerably."</description>
+			<name>Bryan Edge-Salois</name>
+			<website>PC Game Examiner</website>
+			<link>https://pcgameexaminer.com/2016/07/05/e3-2016-stifled-hands-and-mouth-on-preview/</link>
+		</quote>
+		<quote>
+			<description>That was certainly super intense.</description>
+			<name>Russ Frushtick</name>
+			<website>Polygon</website>
+			<link>https://www.facebook.com/polygon/videos/1218651248147501/</link>
+		</quote>
+		<quote>
+			<description>Gattai Games is completely changing things so that the player is forced to feel even more helpless in their environment.</description>
+			<name>Marcus Estrada</name>
+			<website>Hardcore Gamer</website>
+			<link>http://www.hardcoregamer.com/2016/06/29/in-stifled-the-monster-can-hear-you-scream/214619/</link>
+		</quote>
+		<quote>	
+			<description>The minimalist aspect really works, as the horror comes mostly from your mind’s eye.</description>
+			<name>Jeremy Ooi</name>
+			<website>Haogamers</website>
+			<link>http://haogamers.com/blog/2016/06/27/in-stifled-your-voice-is-both-your-survival-and-demise/</link>
+		</quote>
+		<quote>
+			<description>"It’s got a right mix of the things I’d like to see in a game of its nature, so I’m inclined to believe we’ll hear nothing but good things when it releases.</description>
+			<name>CJ Melendez</name>
+			<website>Rely On Horror</website>
+			<link>http://www.relyonhorror.com/in-depth/e3-2016-shouting-reveals-all-in-stifled/</link>
+		</quote>
+	</quotes>
+	
+	<additionals>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Justin Ng</person>
+			<website>www.twitter.com/thatjustinng</website>
+			<role>Design + Business Guy</role>
+		</credit>
+		
+		<credit>
+			<person>Bryan Teo</person>
+			<website>www.twitter.com/_lyrinn</website>	
+			<role>Code + Audio Guy</role>
+		</credit>
+		
+		<credit>
+			<person>Wesley Yeo</person>
+			<role>Code Guy</role>
+		</credit>
+		
+		<credit>
+			<person>Dexter Chng</person>
+			<website>www.twitter.com/DexterChng</website>				
+			<role>Design Guy</role>
+		</credit>
+		
+		<credit>
+			<person>Chen Wei Ren</person>
+			<website>https://twitter.com/skullwolfpro</website>
+			<role>Art + Design Guy</role>
+		</credit>
+		<credit>
+			<person>Andre Pong</person>
+			<website>www.twitter.com/siegvar</website>
+			<role>Design + Stuff Guy</role>
+		</credit>
+	</credits>
+	
+</game>

@@ -1,0 +1,329 @@
+/*ImportUniversalStyle From GattaiGames*/
+/*@import url('https://www.gattaigames.com/style_gattai.css');*/
+@import url('style-keith.css');
+/*ImporBebasFont*/
+@import url('https://fontlibrary.org/face/bebas');
+
+/*Rest of Page CSS*/
+body
+{
+	background-size: cover;
+	background-color: white;
+	color: white;
+}
+
+#centerDIV
+{
+	margin: 0 auto 0 auto;
+	width: 100%;
+	height: 100%;
+	background-color: white;
+	overflow: auto;
+}
+
+/*Color Defines*/
+.orangeBG{
+	background-color: #E6531E;
+	color: white;
+}
+
+.whiteBG{
+	color: black;
+}
+
+.centeringDIV{
+	margin: 0 auto 0 auto;
+	/*height: 90%;
+	max-height: 100px;
+	width: 90%;*/
+	max-width: 1080px;
+	padding: 3em;
+	/*padding-bottom: 0em;*/
+	text-align: center;
+	overflow: hidden;
+}
+
+/*Games*/
+.keithBG{
+	background: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url('images/keith-web.jpg') no-repeat center center;
+}
+
+.muffledWarfareBG{
+	background: linear-gradient(
+			rgba(0, 0, 0, 0.75),
+			rgba(0, 0, 0, 0.75)
+		), url('https://gattaigames.com/muffledwarfare/images/bg.gif') no-repeat center center ;
+}
+
+.muffledwarfareLogo{
+	margin: 0 auto;
+	display: block;
+	width: 95%;
+	max-width: 460px;
+	background: transparent;
+}
+
+.gameCentering{
+	padding-top: 10% !important;
+	padding-bottom: 10% !important;
+}
+
+.imageBG
+{
+	background-size: cover;
+	height: 100%;
+}
+
+.imageBGL {
+  float:left;
+	width: 40%;
+	background: transparent;
+}
+
+.imageBGR {
+  overflow:hidden;
+	background: transparent;
+}
+
+@media screen and (max-width: 1050px) {
+   .imageBGL {
+    float: none;
+    margin-right:0;
+    width:auto;
+  }
+}
+
+/*float text*/
+.floattext{
+	width: 100%;
+	text-align: left;
+	/*
+	min-height: 30em;
+	max-height: 35em;
+	*/
+	padding: 50% 0;
+	display: inline-block;
+	float: left;
+}
+
+#steamDIV
+{
+	margin: 2.5em auto 2.5em auto;
+	width: 100%;
+	max-width: 640px;
+	background-color: transparent;
+}
+
+.steam-container {
+	position:relative;
+	padding-bottom:10.5em;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;
+}
+
+.steam-container iframe, .steam-container object, .steam-container embed {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+
+/*Description*/
+.descDiv{
+	text-align: left;
+	padding: 1.5em;
+	height: 100%;
+	background-color: transparent;
+}
+
+.descDivC {
+	float:left;
+	width:100%;
+	margin: 0 0 0 0;
+	background-color: transparent;
+	margin-bottom: 1em;
+}
+
+.descDivL {
+  float:left;
+  width:50%;
+	margin-bottom: 1em;
+}
+.descDivR {
+  overflow:hidden;
+	margin-bottom: 1em;
+}
+
+@media screen and (max-width: 1050px) {
+   .descDivL {
+    float: none;
+    margin-right:0;
+    width:auto;
+  }
+}
+
+/*Team*/
+.teamDiv{
+	width: auto;
+	height: 15%;
+	max-height: 450px;
+	padding: 1.5em;
+	display: inline-block;
+}
+
+.teamImg
+{
+	border-radius: 50%;
+	margin: 10px 0;
+	height: 150px;
+}
+
+.teamName{
+	font-size: 1.4em;
+	font-weight: bold;
+	padding: 0.1em;
+	display: block;
+}
+
+.teamRole{
+	margin: 0.05em 0;
+	font-size: 0.7em;
+	line-height: 1.6em;
+	display: block;
+}
+
+h1
+{
+	font-family: 'OrkneyBold';
+	font-weight: bold;
+	font-size: 3em;
+	text-transform: uppercase;
+	padding: 0;
+	margin: 1em 0 0.3em 0;
+}
+
+h2
+{
+	font-size: 1.5em;
+	padding: 0;
+	margin: -0.5em 0 0.5em 0;
+}
+
+h3
+{
+	font-size: 1.2em;
+	font-weight: bold;
+	padding: 0;
+	margin: 0 0 -0.25em 0;
+}
+
+p
+{
+	font-family: 'OrkneyRegular';
+	font-weight: normal;
+	line-height: 1.25em;
+}
+
+.tagline
+{
+	font-family: 'BebasNeueRegular';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 2.75em;
+	letter-spacing: 1px;
+}
+
+a
+{
+	color: #ff0000;
+	text-decoration:none;
+}
+
+a:visited
+{
+	color: #ff0000;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: #ff0000;
+	text-decoration: underline;
+}
+
+.psLogos{
+	width: auto;
+	height: 10%;
+	max-height: 60px;
+	margin-bottom: 2em;
+	display: inline-block;
+}
+
+.infoBanner{
+	margin: 0 auto 0 auto !important;
+	width: 100%;
+	max-width: 720px;
+	display: block;
+}
+
+.animatedGif{
+	margin: 0 auto 0 auto !important;
+	width: 100%;
+	display: block;
+}
+
+.hvr-grow {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 0px rgba(0, 0, 0, 0);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
+.hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.btn{
+	margin: 1em auto;
+	width: 100%;
+	max-width: 620px;
+	display: block;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  -webkit-box-shadow: 0px 0px 0px #000000;
+  -moz-box-shadow: 0px 0px 0px #000000;
+  box-shadow: 0px 0px 0px #000000;
+  color: #E6531E;
+	font-family: 'OrkneyRegular';
+	font-weight: bold;
+  font-size: 20px;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+  background-color:rgba(255, 255, 255, 0.7);
+	background-color: white;
+  padding: 10px 10px 10px 10px;
+  border: solid #000 0.5px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color:rgba(255, 255, 255, 0.9);
+	border: solid #ffffff 0.5px;
+	color: #E6531E;
+  text-decoration: none;
+}
+
+.btn:visited{
+	color: #E6531E;
+}

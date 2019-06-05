@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Gattai Games</title>
+	<founding-date>June 2014</founding-date>
+	<website>http://www.gattaigames.com/</website>
+	<based-in>Sunny Singapore</based-in>
+	
+	<press-contact>justin@gattaigames.com</press-contact>
+	
+	<phone>N.A.</phone>
+	<!--
+	<address>
+		<line>Address Line 1</line>
+		<line>Address Line 2</line>
+		<line>Address Line 3</line>
+	</address>
+	-->
+	<socials>
+		<social>
+			<name>Gattai Games - Twitter</name>
+			<link>twitter.com/gattaigames</link>
+		</social>
+		<social>
+			<name>Gattai Games - Facebook </name>
+			<link>facebook.com/gattaigames</link>
+		</social>
+		<social>
+			<name>Gattai Games - Instagram</name>
+			<link>instagram.com/gattaigames</link>
+		</social>
+		<social>
+			<name>Stifled - Twitter</name>
+			<link>twitter.com/stifledgame</link>
+		</social>		
+		<social>
+			<name>Stifled - Facebook</name>
+			<link>facebook.com/stifledgame</link>
+		</social>
+		<!--
+		<social>
+			<name>Skype</name>
+			<link>callto:MySkypeName</link>
+		</social>
+		-->
+	</socials>
+
+	<description>	
+		Gattai Games is a Singapore-based game studio where developers come together to create Novel and Quality interactive experiences.
+		
+		Also, we like giant combining robots and think the GG acronym is funny.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Origins</header>
+			<text>
+				Circa June 2014, A group of Digipen Singapore graduates decided that they wanted to build the games they loved without a suit looking over them, and on that day (more like over the course of a few months), Gattai Games was borned.
+			</text>
+		</history>
+		<history>
+			<header>Stifled - A Mic-Enabled Sound-Based Stealth Thriller</header>
+			<text>
+				In Stifled, the sounds made by your in-game character and yourself through microphone input reveal the otherwise hidden world through ‘echolocation’. However, undue noise will attract the attention of creatures lurking in the darkness. To survive, you will have to tread the line between making sounds to see, and staying quiet to stay hidden.
+				
+				Because in Stifled, they HEAR your fear.
+			</text>
+		</history>
+		<history>
+			<header>Lurking</header>
+			<text>
+Stifled is the spiritual successor to Lurking, a game that was developed over a course of 6 months in Digipen Institute of Technology, Singapore. Lurking won the Best Student Game and Excellence in Technology awards at the 2014 IGF China and was also a SOWN nominee at the 2014 Tokyo Game Show and Gamer's Voice Nominee at SXSW 2015.
+			</text>
+		</history>
+	</histories>
+		
+	<projects>
+		<project>
+		</project>
+	</projects>
+			
+	<trailers>
+		<trailer>
+			<name>Stifled: Narrative Trailer</name>
+			<youtube>2Vhrt9zIAE0</youtube>
+		</trailer>
+		<trailer>
+			<name>Stifled: Microphone Demo Trailer</name>
+			<youtube>d48Ygw_n0pE</youtube>
+		</trailer>
+		<trailer>
+			<name>Stifled: Teaser Trailer</name>
+			<youtube>AUaTqSMOcE0</youtube>
+		</trailer>
+		<trailer>
+			<name>Stifled: Polygon Preview Stream</name>
+			<youtube>G-fHxp8K57A</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+<award>
+			<description>Stifled - Winner, Most Innovative Game</description>
+			<info>Casual Connect Asia 2017</info>
+		</award>
+		<award>
+			<description>Stifled - Winner, Best Game Design</description>
+			<info>Casual Connect Asia 2017</info>
+		</award>		
+		<award>
+			<description>Stifled - Winner, Best Innovation</description>
+			<info>Taipei Game Show 2017</info>
+		</award>
+		<award>
+			<description>Stifled - Winner, Judges' Choice</description>
+			<info>Gamestart Asia 2016</info>
+		</award>		
+		<award>
+			<description>Stifled - Winner, Best Gameplay</description>
+			<info>Unite Singapore 2016</info>
+		</award>	
+		<award>
+			<description>Stifled - Winner, Audience Choice</description>
+			<info>Unite Singapore 2016</info>
+		</award>	
+		<award>
+			<description>Stifled - Official Selection</description>
+			<info>Indiecade at E3 2017</info>
+		</award>		
+		<award>
+			<description>Stifled - Official Selection</description>
+			<info>Bitsummit 2017</info>
+		</award>		
+		<award>
+			<description>Stifled - Nominee, Best Game Audio</description>
+			<info>Casual Connect Asia 2017</info>
+		</award>
+		<award>
+			<description>Stifled - Finalist, Idea</description>
+			<info>AZ Play 2016</info>
+		</award>
+		<award>
+			<description>Stifled - Finalist, Sound</description>
+			<info>AZ Play 2016</info>
+		</award>
+		<award>
+			<description>Stifled - Finalist, Playability</description>
+			<info>AZ Play 2016</info>
+		</award>
+		<award>
+			<description>Stifled - Finalist, Excellence in Experimental</description>
+			<info>Busan Indie Connect 2016</info>
+		</award>
+		<award>
+			<description>Stifled - Official Selection</description>
+			<info>Radius Vienna 2016</info>
+		</award>	
+		<award>
+			<description>Stifled - Official Selection</description>
+			<info>Out of Index 2016</info>
+		</award>
+		<award>
+			<description>Stifled - Finalist, Innovation Category</description>
+			<info>BIG Festival 2016</info>
+		</award>		
+		<award>
+			<description>Stifled - Nominee, Most Innovative Game</description>
+			<info>Casual Connect Asia 2016</info>
+		</award>
+		<award>
+			<description>Stifled - Nominee, Best Game Design</description>
+			<info>Casual Connect Asia 2016</info>
+		</award>
+	</awards>
+	
+	<quotes>
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->
+																			 		
+	<!--
+	<additionals>
+		<additional>
+			<title>Company Link #1</title>
+			<description>This link is a link that might be useful. You can check it out at</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	</additionals>
+	-->
+	
+	<credits>
+		<credit>
+			<person>Justin Ng</person>
+			<website>www.twitter.com/thatjustinng</website>
+			<role>Design + Business Guy</role>
+		</credit>
+		
+		<credit>
+			<person>Bryan Teo</person>
+			<website>www.twitter.com/_lyrinn</website>			
+			<role>Code + Audio Guy</role>
+		</credit>
+		
+		<credit>
+			<person>Wesley Yeo</person>		
+			<role>Code Guy</role>
+		</credit>
+		
+		<credit>
+			<person>Dexter Chng</person>
+			<website>www.twitter.com/DexterChng</website>			
+			<role>Design Guy</role>
+		</credit>
+		
+		<credit>
+			<person>Chen Wei Ren</person>
+			<website>https://twitter.com/skullwolfpro</website>			
+			<role>Art + Design Guy</role>
+		</credit>
+		<credit>
+			<person>Andre Pong</person>
+			<website>www.twitter.com/siegvar</website>
+			<role>Design + Stuff Guy</role>
+		</credit>		
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Justin Ng</name>
+			<mail>justin@gattaigames.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/gattaigames</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/gattaigames</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>http://gattaigames.com</link>
+		</contact>
+	</contacts>
+</game>

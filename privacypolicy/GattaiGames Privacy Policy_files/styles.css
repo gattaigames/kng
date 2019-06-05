@@ -1,0 +1,40 @@
+/* GENERAL:-. */
+body
+{ margin: 0 auto; padding: 0; max-width: 800px; line-height: 13pt; font-size: 9pt; font-family: sans-serif, helvetica, arial; color: #333; }
+div
+{ margin: 0; padding: 0; }
+p
+{ margin: 0; padding: 0 0 15px 0; text-align: justify; }
+.centralize
+{ text-align: center; }
+.right-align
+{ text-align: right; }
+.no-border, .no-border *
+{ border: none !important; }
+
+
+/* DOCUMENT HEADER:-. */
+h3
+{ margin: 0; padding: 0 0 15px 0; text-align: center; line-height: 10pt; font-size: 16pt; }
+h4
+{ margin: 0; padding: 0 0 15px 0; text-align: center; line-height: 1pt; font-size: 16pt; }
+
+/* TABLE:-. */
+table
+{ margin: 0; padding: 0; width: 100%; border-spacing: 0; border-collapse: collapse; }
+table.table
+{ border: 1px solid #ccc; }
+	table tr
+	{}
+		table tr td
+		{ vertical-align: top; padding: 5px; }
+		table tr td.bg-medium-gray
+		{ text-align: center; }
+		table tr td:first-child
+		{ width: 50%; }
+		
+/* COLOR:-. */
+.bg-medium-gray
+{ background: #999; }
+.white
+{ color: #fff; }
